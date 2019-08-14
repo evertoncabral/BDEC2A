@@ -1,4 +1,4 @@
-# BDEC2A
-Aula EC/BD 2A
-Everton Cabral da Silva
-RA 1900829
+# BDEC2A<br>
+Aula EC/BD 2A<br>
+Everton Cabral da Silva<br>
+RA 1900829<br>
